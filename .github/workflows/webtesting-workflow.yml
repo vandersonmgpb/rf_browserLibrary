@@ -6,4 +6,4 @@ jobs:
   test:
     runs-on: ubuntu-20.04
     steps:
-      - run: echo "Hello world!"
+      - run: echo "Hello World!"
