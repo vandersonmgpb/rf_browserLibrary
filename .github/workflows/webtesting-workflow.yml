@@ -4,6 +4,6 @@ on: [push]
 
 jobs:
   test:
-    runs-on: ubuntu-21.04
+    runs-on: ubuntu-latest
     steps:
       - run: echo "Hello World!"
